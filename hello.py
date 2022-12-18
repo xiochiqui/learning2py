@@ -10,4 +10,4 @@ if FEELING == "good":
 elif FEELING == "bad":
     print ("I hope your day gets better")
 else:
-    print ("I feel like your day should be good.")
+    print ("Okay I hope your day will improve.")
